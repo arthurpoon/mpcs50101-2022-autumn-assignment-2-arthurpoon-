@@ -1,0 +1,49 @@
+#Arthur Poon
+#MPCS 50101 2,1 Intro to Programming Monday Section
+#Problem 1
+#ask for input temperature
+#convert string to float
+#logic to check for positivity and whole numbers
+#Arthur Poon
+#MPCS 50101 2,1 Intro to Programming Monday Section
+#Problem 2
+#ask for input score
+#convert string to float
+#logic to check for positivity and whole numbers
+#MPCS 50101 2,1 Intro to Programming Monday Section
+#Problem 3
+#ask for input password
+# Logic for security checks:
+# Have at least 12 characters
+# Contains both numbers and letters
+# Contains at least one of the following characters: !,@,#,$,%
+# Contains at least one capital letter and one lower-case letter
+#MPCS 50101 2,1 Intro to Programming Monday Section
+#Problem 4
+#MPCS 50101 2,1 Intro to Programming Monday Section
+#Problem 5
+#take input
+#check if input is a number [[COME BACK TO THIS]]
+#initiate sum and alternating sign
+#iteration logic, alternating sum
+#check if alternating sum is divisible by 11
+#Arthur Poon
+#MPCS 50101 2,1 Intro to Programming Monday Section
+#Problem 6
+#take input
+#take out all spaces:
+#logic to check for pallindrome:
+#print result
+#Arthur Poon
+#MPCS 50101 2,1 Intro to Programming Monday Section
+#Problem 7
+#Arthur Poon
+#MPCS 50101 2,1 Intro to Programming Monday Section
+#Problem 8
+# Randomly select an object for the computer's choice   
+#take input from user
+#check if valid input
+#see who wins:
+#if tie
+#if not tie
+#ask user if they want to play again
